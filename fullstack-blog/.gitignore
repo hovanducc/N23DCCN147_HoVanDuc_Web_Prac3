@@ -1,0 +1,15 @@
+# Dependencies (Thư viện)
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Môi trường (Bảo mật)
+.env
+.env.local
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
